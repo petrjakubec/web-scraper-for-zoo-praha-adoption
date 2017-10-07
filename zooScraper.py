@@ -2,7 +2,7 @@
 """
 Created on Sat Oct  1 10:41:57 2016
 Web scraper of zoo list of animals for adoption
-@author: Piter de Vries
+@author: Petr Jakubec
 """
 from urllib.request import urlopen
 html = urlopen("https://www.zoopraha.cz/jak-pomoci/adopce/seznam-zvirat-pro-adopci")
